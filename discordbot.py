@@ -1,8 +1,3 @@
-# id 721988431013478481
-# token NzIxOTg4NDMxMDEzNDc4NDgx.XuciUg.RkqF_OdLfCsFgZr1bVJYcq6WW2k
-# permission 2147483639
-# https://discordapp.com/oauth2/authorize?client_id=721988431013478481&scope=bot&permissions=2147483639
-
 
 import discord
 import asyncio
